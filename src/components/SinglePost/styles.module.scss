@@ -1,0 +1,27 @@
+.singlePostWrapper {
+    // width: 100vw;
+    // height: 100vh;
+    // position: static;
+    // top: 0;
+    // left: 0;
+    // background-color: rgba(219, 219, 219, 0.616);
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+    padding: 20px;
+}
+
+.singlePost {
+    width: 650px;
+    height: 650px;
+    background-color: white;
+    border-radius: 10px;
+    svg {
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+    }
+}
+.postImage {
+    border-radius: 5px;
+}

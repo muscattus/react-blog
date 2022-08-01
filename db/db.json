@@ -1,0 +1,14 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "author": "Sasha",
+            "text": "Hello word"
+        },
+        {
+            "id": 2,
+            "author": "Slava",
+            "text": "Glory to Ukraine"
+        }
+    ]
+}
